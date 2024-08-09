@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiffanyroman
-- 👀 I’m interested in K-12 STEM Ed, active learning, and design ed research
+- 👀 I’m interested in the design and development of learning technologies, K-12 STEM Ed, active learning, and design ed research
 - 🌱 I’m currently learning about learning analytics, RStudio, and github
 - 💞️ I’m looking to collaborate on research, of course
 - 📫 How to reach me | http://facultyweb.kennesaw.edu/troman5/index.php
